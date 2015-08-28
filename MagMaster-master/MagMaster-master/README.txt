@@ -1,1 +1,0 @@
-MagMaster is the software for the advanced hard and soft iron magnetometer (compass) calibration. "MagMaster.rar" contains all software you need for the calibration.
